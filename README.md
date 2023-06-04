@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShobhitManiar
-- 👀 I’m interested in Robotics development in design and 
-- 🌱 I’m currently persuing my Master's thesis in GPT-based robot to understand natural language and perform manipulation task
+- 👀 I’m interested in Robotics development 
+- 🌱 I’m currently pursuing my Master's thesis in GPT-based robots to understand natural language and perform manipulation tasks.
 
 <!---
 ShobhitManiar/ShobhitManiar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
