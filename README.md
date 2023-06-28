@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shobhit Maniar</h1>
 <h3 align="center">A passionate Roboticist from United kingdom</h3>
-<h1 align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhitmaniar&theme=gruvbox&no-frame=true&row=1" alt="shobhitmaniar"  /></h1>
+<h1 align="right" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhitmaniar&theme=gruvbox&no-frame=true&row=1&rank=B,C" alt="shobhitmaniar"  /></h1>
 
 - 🔭 I’m currently **pursuing my Master's thesis in GPT-based Humanoid Robot (NAO) that understand natural language and perform manipulation tasks.**
 
