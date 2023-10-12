@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/shobhit-maniar**
 
-- 📄 Know about my experiences [https://shobhit-maniar.tiiny.site](https://shobhit-maniar.tiiny.site)
-
 - ⚡ Fun fact **I can solve a rubik's cube in 13.06 secs**
 
 
