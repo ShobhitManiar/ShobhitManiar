@@ -4,11 +4,10 @@
 
 - 🔭 I’m currently **Working as robotics engineer at Smart city Consulatnacy to deliver a 'plug-and-play' roadside connectivity solution, enabling self-driving shuttles for safe and secure operation.**
 
-- 🌱 I’m currently learning about **Autnomous veicle AD/ADAS**
+- 🌱 I’m currently learning about **Connected and autonmous vehicles**
   
-- 👯 I’m looking to collaborate on **Chat-GPT based robots**
+- 👯 I’m looking to collaborate on **Conncted vehicle infrastructure developmet**
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhitmaniar&theme=radical&layout=compact&size_weight=0.5&count_weight=0.5"/> </p>
-- 🤝 I’m looking for help with **a career in robotics**
 
 - 📫 How to reach me **https://www.linkedin.com/in/shobhit-maniar**
 
