@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently **pursuing my Master's thesis in GPT-based Humanoid Robot (NAO) that understand natural language and perform manipulation tasks.**
 
-- 🌱 I’m currently learning **NLP, machine-vision, MLops**
+- 🌱 I’m currently learning about **Autnomous veicle AD/ADAS**
   
 - 👯 I’m looking to collaborate on **Chat-GPT based robots**
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhitmaniar&theme=radical&layout=compact&size_weight=0.5&count_weight=0.5"/> </p>
