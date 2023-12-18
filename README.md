@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Roboticist from United kingdom</h3>
 <h1 align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhitmaniar&theme=gruvbox&no-frame=true&row=1&rank=B,C" alt="shobhitmaniar"/></h1>
 
-- 🔭 I’m currently **pursuing my Master's thesis in GPT-based Humanoid Robot (NAO) that understand natural language and perform manipulation tasks.**
+- 🔭 I’m currently **Working as robotics engineer at Smart city Consulatnacy to deliver a 'plug-and-play' roadside connectivity solution, enabling self-driving shuttles for safe and secure operation.**
 
 - 🌱 I’m currently learning about **Autnomous veicle AD/ADAS**
   
