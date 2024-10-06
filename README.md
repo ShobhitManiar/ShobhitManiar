@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shobhit Maniar</h1>
 <h3 align="center">A passionate Roboticist from United kingdom</h3>
-<h1 align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhitmaniar&theme=gruvbox&no-frame=true&row=1&rank=B,C" alt="shobhitmaniar"/></h1>
 
-- 🔭 I’m currently **Working as robotics engineer at Smart city Consulatnacy to deliver a 'plug-and-play' roadside connectivity solution, enabling self-driving shuttles for safe and secure operation.**
+- 🔭 I’m currently **Working as robotics engineer at Smart city Consulatnacy to deliver <a href="https://ohmio.com/" target="_blank" rel="noreferrer"> <img src ="https://images.squarespace-cdn.com/content/v1/5a9dc93bec4eb7f704ddce5a/1524179786598-PS0AD1C02V8IUX4JBQOL/FaviconRGB+-+x1.png?format=500w" alt text="Ohmio" height = "15"/></a> shuttles for safe and secure operation.**
 
-- 🌱 I’m currently learning about **Connected and autonmous vehicles**
-  
 - 👯 I’m looking to collaborate on **Conncted vehicle infrastructure developmet**
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhitmaniar&theme=radical&layout=compact&size_weight=0.5&count_weight=0.5"/> </p>
 
