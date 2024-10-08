@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shobhit Maniar</h1>
 <h3 align="center">A passionate Roboticist from United kingdom</h3>
 
-- 🔭 I’m currently **Working as robotics engineer at Smart city Consulatnacy to deliver <a href="https://ohmio.com/" target="_blank" rel="noreferrer"> <img src ="https://images.squarespace-cdn.com/content/v1/5a9dc93bec4eb7f704ddce5a/1524179786598-PS0AD1C02V8IUX4JBQOL/FaviconRGB+-+x1.png?format=500w" alt text="Ohmio" height = "15"/></a> shuttles for safe and secure operation.**
+- 🔭 I’m currently **Working as robotics engineer at Smart city Consultanacy to deliver <a href="https://ohmio.com/" target="_blank" rel="noreferrer"> <img src ="https://images.squarespace-cdn.com/content/v1/5a9dc93bec4eb7f704ddce5a/1524179786598-PS0AD1C02V8IUX4JBQOL/FaviconRGB+-+x1.png?format=500w" alt text="Ohmio" height = "15"/></a> shuttles for safe and secure operation.**
 
-- 👯 I’m looking to collaborate on **Conncted vehicle infrastructure developmet**
+- 👯 I’m looking to collaborate on **Connected vehicle infrastructure developmet**
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhitmaniar&theme=radical&layout=compact&size_weight=0.5&count_weight=0.5"/> </p>
 
 - 📫 How to reach me **https://www.linkedin.com/in/shobhit-maniar**
